@@ -1,1 +1,1 @@
-This a Stock Trading Application like Zerodha.
+This is a Stock Trading Website like Zerodha.
